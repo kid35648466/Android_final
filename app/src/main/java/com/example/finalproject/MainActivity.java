@@ -41,7 +41,7 @@ public class MainActivity extends AppCompatActivity {
     }
 
     private void catchData() {
-        String catchData = "https://api.jsonserve.com/OOxxBq"; // 更新為您的 json 檔案網址
+        String catchData = "https://api.jsonserve.com/WfdxPD"; // 更新為您的 json 檔案網址
         ProgressDialog dialog = ProgressDialog.show(this, "讀取中", "請稍候", true);
         new Thread(() -> {
             try {
