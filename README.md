@@ -6,4 +6,4 @@
 
 測試影片 :https://youtu.be/1Ly_dZ8qhHU
 
-1.png
+![image](https://github.com/kid35648466/Android_final/assets/145088184/292b21c2-85c3-437c-a240-db9eced7917e)
